@@ -1,0 +1,7 @@
+.gitignore
+.git/
+.idea/
+.python-version
+output.log
+README.md
+*.pyc
